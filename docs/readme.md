@@ -2,11 +2,11 @@
 
 ## DDB CMS Login Plantuml sequence diagram
 
-![alt text](/docs/DDB-CMS_login.svg? "DDB CMS Login Plantuml sequence diagram")
+![alt text](https://github.com/rolfmadsen/plantuml/blob/master/docs/DDB-CMS_login.svg? "DDB CMS Login Plantuml sequence diagram")
 
 Source: 
 ```markdown
-![alt text](/docs/DDB-CMS_login.svg? "DDB CMS Login Plantuml sequence diagram")
+![alt text](https://github.com/rolfmadsen/plantuml/blob/master/docs/DDB-CMS_login.svg? "DDB CMS Login Plantuml sequence diagram")
 ``` 
 
 ## Template
