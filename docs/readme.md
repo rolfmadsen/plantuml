@@ -1,6 +1,6 @@
 # Plantuml images in the folder
 
-## DDB-CMS_login.pu
+## DDB CMS Login Plantuml sequence diagram
 
 ![alt text](https://github.com/rolfmadsen/plantuml/blob/master/docs/DDB-CMS_login.svg? "DDB CMS Login Plantuml sequence diagram")
 
