@@ -9,4 +9,4 @@
 ```markdown
 ![alt text](https://github.com/rolfmadsen/plantuml/blob/master/docs/test.svg? "Test diagram")
 ```
-NB. The "?" questionmark is used to clear the image cache on reload.
+NB. The "?" after the image URL is used to clear the image cache on reload.
