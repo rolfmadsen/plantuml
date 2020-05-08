@@ -1,6 +1,6 @@
 # Plantuml images in the folder
 
-## Test
+## test.pu
 
 ![alt text](https://github.com/rolfmadsen/plantuml/blob/master/docs/test.svg? "Test diagram")
 
