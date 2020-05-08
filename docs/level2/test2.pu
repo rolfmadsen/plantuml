@@ -1,5 +1,0 @@
-@startuml
-
-Peter -> Lisbeth: Hello!
-
-@enduml
