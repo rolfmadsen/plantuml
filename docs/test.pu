@@ -7,8 +7,8 @@ boundary "Adgangsplatformen" as login
 
 user -> cms : "Click login button"
 cms -> login : "Redirect"
-login -> user : "Prompt for login"
+login --> user : "Prompt for login"
 user -> login : "Enter credentials and login"
-login -> cms : "User logged in"
-cms -> user : "Wellcome"
+login --> cms : "User logged in"
+cms --> user : "Wellcome"
 @enduml
