@@ -10,5 +10,5 @@ cms -> login : "Redirect"
 login --> user : "Prompt for login"
 user -> login : "Enter credentials and login"
 login --> cms : "User logged in"
-cms --> user : "Wellcome"
+cms --> user : "Welcome!"
 @enduml
