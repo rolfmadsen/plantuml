@@ -1,3 +1,3 @@
 # Plantuml diagrammer
 
-![alt text](https://github.com/rolfmadsen/plantuml/blob/master/docs/test.svg? "Test diagram")
+![alt text](![alt text](/docs/DDB-CMS_login.svg? "DDB CMS Login Plantuml sequence diagram")
