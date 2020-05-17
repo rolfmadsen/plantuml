@@ -11,7 +11,7 @@ jobs:
         fetch-depth: 10
     - name: plantuml
       id: plantuml
-      uses: DDBdrift/generate-plantuml-action@DDBdrift-patch-1
+      uses: grassedge/generate-plantuml-action@master
       with:
         path: docs
       env:
