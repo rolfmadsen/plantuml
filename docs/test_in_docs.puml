@@ -1,0 +1,11 @@
+@startuml
+
+title "Test - Sequence Diagram"
+
+actor User
+boundary "Web GUI" as GUI
+
+User -> GUI: Perform test.
+GUI --> User: Tested!
+
+@enduml
