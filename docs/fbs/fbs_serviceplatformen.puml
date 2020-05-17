@@ -1,10 +1,10 @@
 @startuml
 autonumber
 
-boundary    "FBS" as FBS
+boundary    "FBS" as fbs
 boundary    "Service Platformen" as serviceplatformen
 
-FBS -> serviceplatformen: Validér CPR-nummer.
-serviceplatformen --> FBS: CPR-nummeret er validt.
+fbs -> serviceplatformen: Validér CPR-nummer.
+serviceplatformen --> fbs: CPR-nummeret er validt.
 
 @enduml
