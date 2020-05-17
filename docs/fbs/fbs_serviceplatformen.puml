@@ -1,0 +1,10 @@
+@startuml
+autonumber
+
+boundary    "FBS" as FBS
+boundary    "Service Platformen" as serviceplatformen
+
+FBS -> serviceplatformen: Validér CPR-nummer.
+serviceplatformen --> FBS: CPR-nummeret er validt.
+
+@enduml
