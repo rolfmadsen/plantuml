@@ -11,7 +11,7 @@ jobs:
         fetch-depth: 10
     - name: plantuml
       id: plantuml
-      uses: rolfmadsen/generate-plantuml-action@v1.4
+      uses: rolfmadsen/generate-plantuml-action@default
       with:
         path: docs
       env:
