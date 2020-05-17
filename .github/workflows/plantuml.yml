@@ -1,5 +1,8 @@
 name: generate plantuml
-on: push
+on:
+  push:
+    branches:
+      - master
 jobs:
   generate_plantuml:
     runs-on: ubuntu-latest
@@ -11,7 +14,7 @@ jobs:
         fetch-depth: 10
     - name: plantuml
       id: plantuml
-      uses: rolfmadsen/generate-plantuml-action@default
+      uses: rolfmadsen/generate-plantuml-action@master
       with:
         path: docs
       env:
