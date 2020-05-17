@@ -1,6 +1,6 @@
 @startuml
 
-title "Testes igen 12.20 - Sequence Diagram i /docs"
+title "Testes igen 12.22 - Sequence Diagram i /docs"
 
 actor User
 boundary "Web GUI" as GUI
