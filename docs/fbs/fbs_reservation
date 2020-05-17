@@ -1,0 +1,12 @@
+@startuml
+autonumber
+
+
+boundary "FBS web API" as fbswebapi
+boundary "FBS" as "fbs"
+
+fbswebapi -> fbs: Reservér materialet.
+!include fbs_serviceplatformen-validate_cpr.puml
+fbs --> fbswebapi: Materialet er reservéret.
+
+@enduml
